@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Juliano and I'm from Brazil</p>
+<p align="left">My name is Juliano and I'm from Brazil 🇧🇷</p>
 
 ###
 
@@ -27,9 +27,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Juliano1504/Juliano1504/output/snake.svg" alt="Snake animation" />
-
-###
