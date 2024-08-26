@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">My name is Juliano and I'm from Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" height="15px" width="15px" alt="javascript logo" />
-
+<p align="left">My name is Juliano and I'm from Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" height="15" alt="javascript logo"  />
+  <img width="15" />
 ###
 
 <h2 align="left">Abou me</h2>
